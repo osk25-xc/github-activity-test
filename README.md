@@ -1,12 +1,23 @@
 # GitHub Activity Test
 
-A small sandbox repository for testing GitHub repository and contribution workflows.
+A small sandbox repository for learning and testing Git and GitHub workflows.
 
-## Purpose
-- Practice repository setup and commits
-- Test basic GitHub activity
-- Learn through small, isolated experiments
+## Practice goals
 
-This is a practice repository rather than a finished analytics project. Keep portfolio-ready work in the dedicated project repositories.
+- Create and update repository files.
+- Make clear, descriptive commits.
+- Understand branches and the contribution workflow.
+- Practice reviewing changes before pushing them.
 
-Maintained by **Omkar S. Kshirsagar** | [GitHub Profile](https://github.com/osk25-xc)
+## Scope
+
+This is an isolated learning repository, not a finished data analytics project. Portfolio case studies and analysis work are maintained in their dedicated repositories.
+
+## Suggested workflow
+
+1. Make a small, meaningful change.
+2. Review the diff.
+3. Commit with a descriptive message.
+4. Confirm the change appears in the intended branch.
+
+Maintained by [Omkar S. Kshirsagar](https://github.com/osk25-xc).
